@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <UseWPF>true</UseWPF>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>MemOpz</AssemblyName>
+    <RootNamespace>MemOpz</RootNamespace>
+    <Version>1.0.0</Version>
+    <Product>MemOpz</Product>
+    <AssemblyTitle>MemOpz</AssemblyTitle>
+    <Company>MemOpz</Company>
+  </PropertyGroup>
+
+</Project>
